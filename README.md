@@ -30,5 +30,8 @@ The titles of articles with the maximum number of claps and responses are identi
 The publications with articles having the maximum number of claps and responses are determined.
 The analysis provides insights into article performance, publication distribution, and characteristics based on the provided Medium dataset.
 
+![Figure_1](https://github.com/sahiba1919/Data-visualization/assets/98105737/8ce2d12a-d909-4b68-bf6a-ff0095c4a394)
+
+
 
 
